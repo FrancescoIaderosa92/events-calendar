@@ -8,7 +8,6 @@ html {
   color: #333;
   border: 1px solid #666;
   border-radius: 8px;
-  text-decoration: none;
 }
 
 .red {
@@ -16,7 +15,6 @@ html {
   color: #b92828;
   border: 1px solid #991919;
   border-radius: 8px;
-  text-decoration: none;
 }
 
 .green {
@@ -24,7 +22,6 @@ html {
   color: #6b7e54;
   border: 1px solid #51603f;
   border-radius: 8px;
-  text-decoration: none;
 }
 
 .blue {
@@ -32,9 +29,8 @@ html {
   color: #1d38da;
   border: 1px solid #38448e;
   border-radius: 8px;
-  text-decoration: none;
 }
 
-dt {
+td {
   height: 11em;
 }
